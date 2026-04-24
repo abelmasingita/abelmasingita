@@ -57,7 +57,7 @@ I build cloud platforms, payment systems, and enterprise software. I lead teams,
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Senior Software Developer** | Datacentrix | Dec 2024 - Present |
+| **Senior Software Developer** | Datacentrix | Dec 2024 - April 2026 |
 | **Full Stack Developer** | UtiliPay | Aug 2023 - Dec 2024 |
 | **Full Stack Developer** | Integrove | Jul 2021 - Aug 2023 |
 
